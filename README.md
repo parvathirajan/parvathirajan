@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi there 👋 I'm Parvathirajan
 
-<img src="https://raw.githubusercontent.com/parvathirajan/parvathirajan/master/Mine%20Git%20Banner.png" alt="About Parvathirajan...">
+<img src="https://raw.githubusercontent.com/parvathirajan/parvathirajan/master/Mine%20Git%20Banner.png" alt="About Parvathirajan..." width="500" height="600">
 
 ![Parvathirajan's github stats](https://github-readme-stats.vercel.app/api?username=parvathirajan&show_icons=true&hide_border=true)
 <!--
