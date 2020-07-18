@@ -1,7 +1,8 @@
 ### Hi there 👋 I'm Parvathirajan
 
 <img src="https://raw.githubusercontent.com/parvathirajan/parvathirajan/master/Mine%20Git%20Banner.png" alt="About Parvathirajan..." height="250">
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=parvathirajan.visitor-badge)
+
+ ![visitors](https://visitor-badge.laobi.icu/badge?page_id=parvathirajan.visitor-badge)
  
 ![Parvathirajan's github stats](https://github-readme-stats.vercel.app/api?username=parvathirajan&show_icons=true&hide_border=true)
 <!--
