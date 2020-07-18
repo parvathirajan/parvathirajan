@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<img src="https://raw.githubusercontent.com/parvathirajan/parvathirajan/master/Mine%20Git%20Banner.png" alt="About Parvathirajan...">
+
 ![Parvathirajan's github stats](https://github-readme-stats.vercel.app/api?username=parvathirajan&show_icons=true&hide_border=true)
 <!--
 **parva-nata/parva-nata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
