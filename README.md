@@ -10,19 +10,13 @@
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=parvathirajan.visitor-badge) [![GitHub followers](https://img.shields.io/github/followers/parvathirajan.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/parvathirajan?tab=followers)
 
+- 🔭 I’m currently working on Data Coalescer
+- 🌱 I’m currently learning Go
+- 👯 I’m looking to collaborate on Any Python Technologies/utils
+- 💬 Ask me about Python, Java, Go and My Secrets 😄
+- 📫 How to reach me: google my name as Parvathirajan Natarajan
+- ⚡ Fun fact: Share your Secrets 😄 I'll never post that in Twitter, because I'm frequently using Facebook and Insta only
+
 ![Parvathirajan's github stats](https://github-readme-stats.vercel.app/api?username=parvathirajan&show_icons=true&line_height=30)
 
-<!--
-**parva-nata/parva-nata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
