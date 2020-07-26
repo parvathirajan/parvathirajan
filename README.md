@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Parvathirajan
 
-<img src="https://raw.githubusercontent.com/parvathirajan/parvathirajan/master/Mine%20Git%20Banner.png" alt="About Parvathirajan..." height="250">
+<img src="https://raw.githubusercontent.com/parvathirajan/parvathirajan/master/Mine%20Git%20Banner%20npr.png" alt="About Parvathirajan..." height="250">
 
 ### Languages and Tools :computer:
 
