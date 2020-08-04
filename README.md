@@ -10,12 +10,12 @@
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=parvathirajan.visitor-badge) [![GitHub followers](https://img.shields.io/github/followers/parvathirajan.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/parvathirajan?tab=followers)
 
-- 🔭 I’m currently working on Data Coalescer
-- 🌱 I’m currently learning Go
-- 👯 I’m looking to collaborate on Any Python Technologies/utils
-- 💬 Ask me about Python, Java, Go and My Secrets 😄
-- 📫 How to reach me: google my name as Parvathirajan Natarajan
-- ⚡ Fun fact: Share your Secrets 😄 I'll never post that in Twitter, because I'm frequently using Facebook and Insta only
+- 🔭 I’m currently working on **Data Coalescer and File Converter**
+- 🌱 I’m currently learning **Go**
+- 👯 I’m looking to collaborate on **Any Python Technologies/utils**
+- 💬 Ask me about *Python, Java, Go and My Secrets* 😄
+- 📫 How to reach me: *google my name as Parvathirajan Natarajan*
+- ⚡ Fun fact: Share your Secrets 😄 I'll never post that in Twitter, because I'm frequently using *Facebook* and *Insta* only
 
 ![Parvathirajan's github stats](https://github-readme-stats.vercel.app/api?username=parvathirajan&show_icons=true&line_height=30)
 
