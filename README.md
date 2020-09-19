@@ -4,6 +4,8 @@
 
 ### Languages and Tools :computer:
 
+<a href="https://stackexchange.com/users/10494532/parvathirajan-natarajan"><img src="https://stackexchange.com/users/flair/10494532.png" width="208" height="58" alt="profile for Parvathirajan Natarajan on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Parvathirajan Natarajan on Stack Exchange, a network of free, community-driven Q&amp;A sites" /></a>
+
 [![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python&link=https://github.com/parvathirajan)](https://github.com/parvathirajan) [![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=java&logoColor=white&link=https://github.com/parvathirajan)](https://github.com/parvathirajan) [![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c++&link=https://github.com/parvathirajan)](https://github.com/parvathirajan) [![C](https://img.shields.io/badge/-A8B9CC?style=flat&logo=c&logoColor=white&link=https://github.com/parvathirajan)](https://github.com/parvathirajan) 
 
 [![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/parvathirajan)](https://github.com/parvathirajan) [![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat&logo=gitlab&link=https://github.com/parvathirajan)](https://gitlab.com/parvathirajan) [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&link=https://github.com/parvathirajan)](https://github.com/parvathirajan)
