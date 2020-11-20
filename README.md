@@ -12,7 +12,7 @@
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=parvathirajan.visitor-badge) [![GitHub followers](https://img.shields.io/github/followers/parvathirajan.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/parvathirajan?tab=followers)
 
-- 🔭 I’m currently working on **Data Coalescer and File Converter Util**
+- 🔭 I’m currently working on **Data Integration Tool and File Converter Util (like Pandas)**
 - 🌱 I’m currently learning **Go**
 - 👯 I’m looking to collaborate on **Any Python Technologies/utils**
 - 💬 Ask me about *Python, Java, Go and My Secrets* 😄
