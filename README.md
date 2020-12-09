@@ -17,7 +17,7 @@
 - 👯 I’m looking to collaborate on **Any Python Technologies/utils**
 - 💬 Ask me about *Python, Java, Go and My Secrets* 😄
 - 📫 How to reach me: *google my name as Parvathirajan Natarajan*
-- ⚡ Fun fact: Share your Secrets 😄 I'll never post that in Twitter, because I'm frequently using *Facebook* and *Insta* only
+- ⚡ *Secret about me:* Share your Secrets 😄 I'll never post that in Twitter, because I'm frequently using *Facebook* and *Insta* only
 
 ![Parvathirajan's github stats](https://github-readme-stats.vercel.app/api?username=parvathirajan&show_icons=true&line_height=30)
 
