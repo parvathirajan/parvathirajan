@@ -15,7 +15,7 @@
 - 🔭 I’m currently working on **Data Integration Tool and File Converter Util (like Pandas)**
 - 🌱 I’m currently learning **Go**
 - 👯 I’m looking to collaborate on **Any Python Technologies/utils**
-- 💬 Ask me about *Python, Java, Go and My Secrets* 😄
+- 💬 Ask me about *Python, Go and My Secrets* 😄
 - 📫 How to reach me: *google my name as Parvathirajan Natarajan*
 - ⚡ **Secret about me:** Share your Secrets 😄 I'll never post that in Twitter, because I'm frequently using *Facebook* and *Insta* only
 
